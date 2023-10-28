@@ -1,0 +1,4 @@
+Create database school; 
+use school ; 
+show databases ; 
+drop database school ; 
